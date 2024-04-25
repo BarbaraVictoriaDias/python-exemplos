@@ -5,3 +5,8 @@ Telefone= " 11 97299-6143"
 Nota= "9.25"
 Aprovado= True
 print (nome) 
+print (idade)
+print (email)
+print (telefone)
+print (nota)
+print (aprovado)
