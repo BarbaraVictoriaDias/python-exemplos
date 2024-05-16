@@ -1,4 +1,4 @@
-print(if"Programa de empréstimo"
+print if"Programa de empréstimo"
       f"Responda: (0-Não ou 1-Sim)")
 nome_negativado=int(input("Possui nome negativado?: "))
 if nome_negativado == 1:
